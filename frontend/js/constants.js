@@ -1,9 +1,9 @@
 const contractAddress = "0xEdD445a21233C1bDb70abAeca0022773cc3BC5b9"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "The Smash Bats are here!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The Smash Bat collection is a 5000 NFT collection. Some sleep on the Smash Bats, because they dont know how to use it. Oooh baby.. Each Smash Bat is looking for a holder. Which will be yours? How will you name your Smash Bat?';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
