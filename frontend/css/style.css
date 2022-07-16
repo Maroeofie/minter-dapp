@@ -200,7 +200,7 @@ section {
   background: var(--btn-bg-color);
   font-family: var(--font-secondary);
   font-size: 1.1rem;
-  color: var(--bg-color);
+  color: #322F6D;
   padding: 0.5rem 0.7rem;
   display: inline-block;
   width: 100%;
